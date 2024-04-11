@@ -24,4 +24,4 @@ Here is my [dotfiles](https://github.com/umtdemr/Dotfiles)
 
 ### Contact with me
 
-* [umitde.com/contact](https://umitde.com/contact)
+* [umitde.com/about](https://umitde.com/about)
